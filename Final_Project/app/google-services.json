@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601834524673",
+    "project_id": "zocdoc-7ec9a",
+    "storage_bucket": "zocdoc-7ec9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601834524673:android:0fd1f96a66cbf2c107b000",
+        "android_client_info": {
+          "package_name": "com.example.zocdoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK-vpjrEMzzYtE2qVdf1aPhNOAXzLSVRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
